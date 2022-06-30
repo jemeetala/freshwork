@@ -20,12 +20,12 @@ const AddTaskPage = () => {
           <aside className="items-center lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] lg:pt-[18px] xl:pt-[21px] pt-[24px] 3xl:pt-[28px] lg:px-[18px] xl:px-[21px] px-[24px] 3xl:px-[28px] w-[7%]">
             <Column className="">
               <Image
-                src={"images/img_group_8.svg"}
+                src={"images/img_group_6.svg"}
                 className="lg:h-[39px] xl:h-[45px] h-[50px] 2xl:h-[51px] 3xl:h-[61px] mx-[auto] object-contain lg:w-[38px] xl:w-[44px] w-[50px] 3xl:w-[60px]"
                 alt="Group"
               />
               <Image
-                src={"images/img_frame407_5.svg"}
+                src={"images/img_frame407_3.svg"}
                 className="3xl:h-[1075px] lg:h-[697px] xl:h-[797px] h-[895px] 2xl:h-[896px] lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] mx-[auto] object-contain w-[51%]"
                 alt="Frame407"
               />
@@ -39,7 +39,7 @@ const AddTaskPage = () => {
                 <Button className="border border-gray_200 border-solid font-normal mb-[1px] not-italic lg:py-[14px] xl:py-[16px] py-[18.5px] 2xl:py-[18px] 3xl:py-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] text-bluegray_700 text-center w-[7%]">{`Analytics`}</Button>
                 <div className="w-[14%] input-wrap">
                   <Image
-                    src={"images/img_vector_78.svg"}
+                    src={"images/img_vector_80.svg"}
                     className="absolute z-[1] h-[16.01px] right-[20px] lg:h-[13px] lg:right-[15px] xl:h-[15px] xl:right-[17px] 2xl:h-[17px] 3xl:h-[20px] 3xl:right-[24px] my-[auto] inset-y-[0]"
                     alt="Vector"
                   />
@@ -122,7 +122,7 @@ const AddTaskPage = () => {
                   <Column className="items-start justify-start lg:mb-[304px] xl:mb-[348px] mb-[392px] 3xl:mb-[470px] lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] w-[60%]">
                     <Input
                       className="bg-bluegray_50 placeholder:bg-transparent border-0 font-normal not-italic lg:pl-[27px] xl:pl-[31px] pl-[35px] 3xl:pl-[42px] lg:py-[14px] xl:py-[16px] py-[18.5px] 2xl:py-[18px] 3xl:py-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                      name="Mark as complet"
+                      name="Group329"
                       placeholder={`Mark as completed`}
                     ></Input>
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">
@@ -146,7 +146,7 @@ const AddTaskPage = () => {
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Description`}</Text>
                     <Input
                       className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pt-[12px] xl:pt-[14px] pt-[16px] 3xl:pt-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                      name="Start typing th"
+                      name="Group318"
                       placeholder={`Start typing the details about the task`}
                     ></Input>
                     <Column className="lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] w-[100%]">
@@ -161,7 +161,7 @@ const AddTaskPage = () => {
                               <Row className="border border-gray_200 border-solid items-center justify-between lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[16px] xl:pr-[19px] pr-[21.66px] 2xl:pr-[21px] 3xl:pr-[26px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[100%]">
                                 <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_300 text-left w-[auto]">{`Select type`}</Text>
                                 <Image
-                                  src={"images/img_vector_79.svg"}
+                                  src={"images/img_vector_81.svg"}
                                   className="h-[5.17px] xl:h-[5px] lg:h-[5px] 2xl:h-[6px] 3xl:h-[7px] mb-[8.91px] lg:ml-[26px] xl:ml-[30px] ml-[34px] 3xl:ml-[40px] mt-[8.92px] 3xl:my-[10px] lg:my-[6px] xl:my-[7px] 2xl:my-[8px] object-contain w-[6%]"
                                   alt="Vector"
                                 />
@@ -181,7 +181,7 @@ const AddTaskPage = () => {
                               <Row className="border border-gray_200 border-solid items-center justify-start lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[27px] xl:pr-[31px] pr-[34.99px] 2xl:pr-[35px] 3xl:pr-[42px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[100%]">
                                 <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`06/28/2022`}</Text>
                                 <Image
-                                  src={"images/img_vector_80.svg"}
+                                  src={"images/img_vector_82.svg"}
                                   className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] xl:ml-[10px] ml-[11.67px] 2xl:ml-[11px] 3xl:ml-[14px] lg:ml-[9px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                                   alt="Vector"
                                 />
@@ -192,7 +192,7 @@ const AddTaskPage = () => {
                         <Row className="border border-gray_200 border-solid items-start justify-between lg:ml-[18px] xl:ml-[21px] ml-[24.01px] 2xl:ml-[24px] 3xl:ml-[28px] lg:pb-[6px] xl:pb-[7px] pb-[8px] 3xl:pb-[9px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[13px] xl:pr-[15px] pr-[17.66px] 2xl:pr-[17px] 3xl:pr-[21px] lg:pt-[26px] xl:pt-[30px] pt-[34px] 3xl:pt-[40px] rounded-radius4 w-[30%]">
                           <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`09:40`}</Text>
                           <Image
-                            src={"images/img_vector_81.svg"}
+                            src={"images/img_vector_83.svg"}
                             className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] lg:ml-[49px] xl:ml-[56px] ml-[63px] 3xl:ml-[75px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                             alt="Vector"
                           />
@@ -202,13 +202,13 @@ const AddTaskPage = () => {
                         <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Task Type`}</Text>
                         <div className="bg-transparent border-0 lg:mt-[3px] mt-[4px] w-[100%] xl:mt-[3px] input-wrap">
                           <Image
-                            src={"images/img_vector_82.svg"}
+                            src={"images/img_vector_84.svg"}
                             className="absolute z-[1] right-[21.659912px] bg-transparent border-0 lg:right-[16px] xl:right-[19px] 2xl:right-[21px] 3xl:right-[26px] my-[auto] inset-y-[0]"
                             alt="Vector"
                           />
                           <Input
                             className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_300 text-bluegray_300 text-left w-[100%]"
-                            name="Select an outco"
+                            name="Group336"
                             placeholder={`Select an outcome`}
                           ></Input>
                         </div>
@@ -230,23 +230,27 @@ const AddTaskPage = () => {
                     <Text className="font-normal lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] lg:mt-[18px] xl:mt-[21px] mt-[24px] 3xl:mt-[28px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Related to`}</Text>
                     <div className="3xl:ml-[28px] bg-transparent border-0 lg:ml-[18px] lg:mt-[3px] ml-[24px] mt-[4px] w-[84%] xl:ml-[21px] xl:mt-[3px] input-wrap">
                       <Image
-                        src={"images/img_vector_83.svg"}
+                        src={"images/img_vector_85.svg"}
                         className="absolute z-[1] right-[21.659912px] bg-transparent border-0 lg:right-[16px] xl:right-[19px] 2xl:right-[21px] 3xl:right-[26px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
                       <Input
                         className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Link this task "
+                        name="Group332"
                         placeholder={`Link this task to`}
                       ></Input>
                     </div>
-                    <Text className="font-normal lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] lg:mt-[18px] xl:mt-[21px] mt-[24px] 3xl:mt-[28px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Collaborators (0)`}</Text>
-                    <Column className="items-center xl:mt-[3px] lg:mt-[3px] mt-[4px] lg:px-[18px] xl:px-[21px] px-[24px] 3xl:px-[28px] w-[100%]">
-                      <Image
-                        src={"images/img_frame418_4.svg"}
-                        className="lg:h-[28px] xl:h-[33px] h-[36px] 2xl:h-[37px] 3xl:h-[44px] mx-[auto] object-contain rounded-radius4 w-[84%]"
-                        alt="Frame418"
-                      />
+                    <Column className="items-center lg:mt-[18px] xl:mt-[21px] mt-[24px] 3xl:mt-[28px] lg:px-[18px] xl:px-[21px] px-[24px] 3xl:px-[28px] w-[100%]">
+                      <Column className="items-start justify-start mx-[auto] w-[84%]">
+                        <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Collaborators (0)`}</Text>
+                        <Column className="xl:mt-[3px] lg:mt-[3px] mt-[4px] w-[100%]">
+                          <Image
+                            src={"images/img_frame418_4.svg"}
+                            className="lg:h-[28px] xl:h-[33px] h-[36px] 2xl:h-[37px] 3xl:h-[44px] object-cover rounded-radius4 w-[100%]"
+                            alt="Frame418"
+                          />
+                        </Column>
+                      </Column>
                     </Column>
                   </Column>
                 </Row>
@@ -277,17 +281,17 @@ const AddTaskPage = () => {
                   </Stack>
                   <Row className="font-inter items-center justify-between lg:ml-[374px] xl:ml-[427px] ml-[481px] 3xl:ml-[577px] w-[22%]">
                     <Image
-                      src={"images/img_group5_5.svg"}
+                      src={"images/img_group5_4.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group5"
                     />
                     <Image
-                      src={"images/img_group4_5.svg"}
+                      src={"images/img_group4_4.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group4"
                     />
                     <Image
-                      src={"images/img_group3_7.svg"}
+                      src={"images/img_group3_6.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group3"
                     />
@@ -325,13 +329,13 @@ const AddTaskPage = () => {
                       </Row>
                       <div className="bg-transparent border-0 w-[48%] input-wrap">
                         <Image
-                          src={"images/img_vector_84.svg"}
+                          src={"images/img_vector_86.svg"}
                           className="absolute z-[1] h-[16.67px] left-[17.67px] bg-transparent border-0 lg:h-[13px] lg:left-[13px] xl:h-[15px] xl:left-[15px] 2xl:h-[17px] 2xl:left-[17px] 3xl:h-[21px] 3xl:left-[21px] my-[auto] inset-y-[0]"
                           alt="Vector"
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[15.66px] lg:pl-[40px] xl:pl-[46px] pl-[52.01px] 2xl:pl-[52px] 3xl:pl-[62px] pt-[15.67px] lg:py-[12px] xl:py-[13px] 2xl:py-[15px] 3xl:py-[18px] lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Add meeting"
+                          name="Group331"
                           placeholder={`Add meeting`}
                         ></Input>
                       </div>
@@ -412,7 +416,7 @@ const AddTaskPage = () => {
                                 </Column>
                               </Column>
                               <Image
-                                src={"images/img_vector_85.svg"}
+                                src={"images/img_vector_87.svg"}
                                 className="absolute bottom-[5%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[13%] w-[61%]"
                                 alt="Vector"
                               />
@@ -423,17 +427,17 @@ const AddTaskPage = () => {
                                   <Column className="items-center pr-[1px] w-[100%]">
                                     <Stack className="lg:h-[15px] xl:h-[17px] h-[18.820007px] 2xl:h-[19px] 3xl:h-[23px] mx-[auto] w-[99%]">
                                       <Image
-                                        src={"images/img_vector_86.png"}
+                                        src={"images/img_vector_88.png"}
                                         className="absolute lg:h-[15px] xl:h-[17px] h-[18.75px] 2xl:h-[19px] 3xl:h-[23px] inset-y-[0] my-[auto] object-contain right-[0] w-[45%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_87.png"}
+                                        src={"images/img_vector_89.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_88.png"}
+                                        src={"images/img_vector_90.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
@@ -448,19 +452,19 @@ const AddTaskPage = () => {
                                   </Column>
                                 </Column>
                                 <Image
-                                  src={"images/img_vector_89.svg"}
+                                  src={"images/img_vector_91.svg"}
                                   className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[1%] w-[81%]"
                                   alt="Vector"
                                 />
                               </Stack>
                               <Stack className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] left-[18%] w-[46%]">
                                 <Image
-                                  src={"images/img_vector_90.png"}
+                                  src={"images/img_vector_92.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
                                 <Image
-                                  src={"images/img_vector_91.png"}
+                                  src={"images/img_vector_93.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
@@ -522,7 +526,7 @@ const AddTaskPage = () => {
                                 </Column>
                               </Column>
                               <Image
-                                src={"images/img_vector_92.svg"}
+                                src={"images/img_vector_94.svg"}
                                 className="absolute bottom-[5%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[13%] w-[61%]"
                                 alt="Vector"
                               />
@@ -533,17 +537,17 @@ const AddTaskPage = () => {
                                   <Column className="items-center pr-[1px] w-[100%]">
                                     <Stack className="lg:h-[15px] xl:h-[17px] h-[18.820007px] 2xl:h-[19px] 3xl:h-[23px] mx-[auto] w-[99%]">
                                       <Image
-                                        src={"images/img_vector_93.png"}
+                                        src={"images/img_vector_95.png"}
                                         className="absolute lg:h-[15px] xl:h-[17px] h-[18.75px] 2xl:h-[19px] 3xl:h-[23px] inset-y-[0] my-[auto] object-contain right-[0] w-[45%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_94.png"}
+                                        src={"images/img_vector_96.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_95.png"}
+                                        src={"images/img_vector_97.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
@@ -558,19 +562,19 @@ const AddTaskPage = () => {
                                   </Column>
                                 </Column>
                                 <Image
-                                  src={"images/img_vector_96.svg"}
+                                  src={"images/img_vector_98.svg"}
                                   className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[1%] w-[81%]"
                                   alt="Vector"
                                 />
                               </Stack>
                               <Stack className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] left-[18%] w-[46%]">
                                 <Image
-                                  src={"images/img_vector_97.png"}
+                                  src={"images/img_vector_99.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
                                 <Image
-                                  src={"images/img_vector_98.png"}
+                                  src={"images/img_vector_100.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
@@ -589,13 +593,13 @@ const AddTaskPage = () => {
                     <div className="3xl:ml-[133px] absolute bg-transparent border-0 left-[26%] lg:ml-[86px] ml-[111px] w-[39%] xl:ml-[98px] input-wrap">
                       <div className="input-wrap">
                         <Image
-                          src={"images/img_vector_99.svg"}
+                          src={"images/img_vector_101.svg"}
                           className="absolute z-[1] left-[17.55px] bg-transparent border-0 my-[auto] inset-y-[0]"
                           alt="Vector"
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[11.66px] lg:pl-[40px] xl:pl-[45px] pl-[51.47px] 2xl:pl-[51px] 3xl:pl-[61px] pt-[11.67px] xl:py-[10px] 2xl:py-[11px] 3xl:py-[14px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Configure widge"
+                          name="Group330"
                           placeholder={`Configure widgets`}
                         ></Input>
                       </div>
@@ -604,7 +608,7 @@ const AddTaskPage = () => {
                   <Column className="bg-white_A700 items-start justify-start lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] lg:pb-[32px] xl:pb-[37px] pb-[42px] 3xl:pb-[50px] xl:pt-[10px] pt-[12px] 3xl:pt-[14px] lg:pt-[9px] rounded-radius8 w-[100%]">
                     <Row className="items-center justify-start lg:ml-[12px] xl:ml-[14px] ml-[16px] 3xl:ml-[19px] w-[37%]">
                       <Image
-                        src={"images/img_group3_8.svg"}
+                        src={"images/img_group3_7.svg"}
                         className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                         alt="Group3"
                       />

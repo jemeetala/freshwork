@@ -15,9 +15,6 @@ const Home = () => {
           <Link to="/addaccount">AddAccount</Link>
         </li>
         <li>
-          <Link to="/contacts">Contacts</Link>
-        </li>
-        <li>
           <Link to="/products">Products</Link>
         </li>
         <li>
@@ -27,7 +24,13 @@ const Home = () => {
           <Link to="/dashboard">Dashboard</Link>
         </li>
         <li>
+          <Link to="/addcontacts">AddContacts</Link>
+        </li>
+        <li>
           <Link to="/addtask">AddTask</Link>
+        </li>
+        <li>
+          <Link to="/contacts">Contacts</Link>
         </li>
         <li>
           <Link to="/account">Account</Link>
@@ -40,9 +43,6 @@ const Home = () => {
         </li>
         <li>
           <Link to="/tasks">Tasks</Link>
-        </li>
-        <li>
-          <Link to="/addcontacts">AddContacts</Link>
         </li>
       </ul>
     </div>

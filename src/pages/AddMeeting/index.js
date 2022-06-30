@@ -20,12 +20,12 @@ const AddMeetingPage = () => {
           <aside className="items-center lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] lg:pt-[18px] xl:pt-[21px] pt-[24px] 3xl:pt-[28px] lg:px-[18px] xl:px-[21px] px-[24px] 3xl:px-[28px] w-[7%]">
             <Column className="">
               <Image
-                src={"images/img_group_6.svg"}
+                src={"images/img_group_2.svg"}
                 className="lg:h-[39px] xl:h-[45px] h-[50px] 2xl:h-[51px] 3xl:h-[61px] mx-[auto] object-contain lg:w-[38px] xl:w-[44px] w-[50px] 3xl:w-[60px]"
                 alt="Group"
               />
               <Image
-                src={"images/img_frame407_3.svg"}
+                src={"images/img_frame407_2.svg"}
                 className="3xl:h-[1075px] lg:h-[697px] xl:h-[797px] h-[895px] 2xl:h-[896px] lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] mx-[auto] object-contain w-[51%]"
                 alt="Frame407"
               />
@@ -39,13 +39,13 @@ const AddMeetingPage = () => {
                 <Button className="border border-gray_200 border-solid font-normal mb-[1px] not-italic lg:py-[14px] xl:py-[16px] py-[18.5px] 2xl:py-[18px] 3xl:py-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] text-bluegray_700 text-center w-[7%]">{`Analytics`}</Button>
                 <div className="bg-transparent border-0 w-[14%] input-wrap">
                   <Image
-                    src={"images/img_vector_35.svg"}
+                    src={"images/img_vector_20.svg"}
                     className="absolute z-[1] h-[16.01px] right-[20px] bg-transparent border-0 lg:h-[13px] lg:right-[15px] xl:h-[15px] xl:right-[17px] 2xl:h-[17px] 3xl:h-[20px] 3xl:right-[24px] my-[auto] inset-y-[0]"
                     alt="Vector"
                   />
                   <Input
                     className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pb-[15px] xl:pb-[17px] pb-[19.5px] 2xl:pb-[19px] 3xl:pb-[23px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[56px] xl:pr-[64px] pr-[72.02px] 2xl:pr-[72px] 3xl:pr-[86px] lg:pt-[14px] xl:pt-[16px] pt-[18.5px] 2xl:pt-[18px] 3xl:pt-[22px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                    name="Sales Dashboard"
+                    name="Group140"
                     placeholder={`Sales Dashboard`}
                   ></Input>
                 </div>
@@ -130,13 +130,13 @@ const AddMeetingPage = () => {
                     </Text>
                     <div className="bg-transparent border-0 lg:mt-[3px] mt-[4px] w-[100%] xl:mt-[3px] input-wrap">
                       <Image
-                        src={"images/img_vector_36.svg"}
+                        src={"images/img_vector_21.svg"}
                         className="absolute z-[1] h-[13.33px] right-[15.340088px] bg-transparent border-0 lg:h-[11px] lg:right-[11px] xl:h-[12px] xl:right-[13px] 2xl:h-[14px] 2xl:right-[15px] 3xl:h-[17px] 3xl:right-[18px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
                       <Input
                         className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal not-italic xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pr-[44px] xl:pr-[51px] pr-[57.34008800000007px] 2xl:pr-[57px] 3xl:pr-[68px] py-[11px] 3xl:py-[13px] lg:py-[8px] xl:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Enter title of "
+                        name="Group141"
                         placeholder={`Enter title of meeting`}
                       ></Input>
                     </div>
@@ -155,7 +155,7 @@ const AddMeetingPage = () => {
                             <Row className="border border-gray_200 border-solid items-center justify-evenly lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[13px] xl:pr-[15px] pr-[17.66px] 2xl:pr-[17px] 3xl:pr-[21px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[100%]">
                               <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`06/28/2022`}</Text>
                               <Image
-                                src={"images/img_vector_37.svg"}
+                                src={"images/img_vector_22.svg"}
                                 className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] xl:ml-[10px] ml-[12.17px] 2xl:ml-[12px] 3xl:ml-[14px] lg:ml-[9px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                                 alt="Vector"
                               />
@@ -165,7 +165,7 @@ const AddMeetingPage = () => {
                         <Row className="border border-gray_200 border-solid items-center justify-center lg:ml-[6px] xl:ml-[7px] ml-[8px] 3xl:ml-[9px] lg:mt-[20px] xl:mt-[23px] mt-[26px] 3xl:mt-[31px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[13px] xl:pr-[15px] pr-[17.66px] 2xl:pr-[17px] 3xl:pr-[21px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[23%]">
                           <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`09:40`}</Text>
                           <Image
-                            src={"images/img_vector_38.svg"}
+                            src={"images/img_vector_23.svg"}
                             className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] lg:ml-[35px] xl:ml-[41px] ml-[46.17px] 2xl:ml-[46px] 3xl:ml-[55px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                             alt="Vector"
                           />
@@ -184,7 +184,7 @@ const AddMeetingPage = () => {
                               <Row className="border border-gray_200 border-solid items-center justify-evenly lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[13px] xl:pr-[15px] pr-[17.66px] 2xl:pr-[17px] 3xl:pr-[21px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[100%]">
                                 <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`06/28/2022`}</Text>
                                 <Image
-                                  src={"images/img_vector_39.svg"}
+                                  src={"images/img_vector_24.svg"}
                                   className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] xl:ml-[10px] ml-[12.17px] 2xl:ml-[12px] 3xl:ml-[14px] lg:ml-[9px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                                   alt="Vector"
                                 />
@@ -194,7 +194,7 @@ const AddMeetingPage = () => {
                           <Row className="border border-gray_200 border-solid items-center justify-between lg:ml-[6px] xl:ml-[7px] ml-[8px] 3xl:ml-[9px] lg:mt-[20px] xl:mt-[23px] mt-[26px] 3xl:mt-[31px] lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[13px] xl:pr-[15px] pr-[17.66px] 2xl:pr-[17px] 3xl:pr-[21px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] rounded-radius4 w-[48%]">
                             <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`09:40`}</Text>
                             <Image
-                              src={"images/img_vector_40.svg"}
+                              src={"images/img_vector_25.svg"}
                               className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] lg:ml-[35px] xl:ml-[41px] ml-[46.17px] 2xl:ml-[46px] 3xl:ml-[55px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                               alt="Vector"
                             />
@@ -216,38 +216,38 @@ const AddMeetingPage = () => {
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Time zone`}</Text>
                     <div className="bg-transparent border-0 lg:mt-[3px] mt-[4px] w-[100%] xl:mt-[3px] input-wrap">
                       <Image
-                        src={"images/img_vector_41.svg"}
+                        src={"images/img_vector_26.svg"}
                         className="absolute z-[1] right-[21.659912px] bg-transparent border-0 lg:right-[16px] xl:right-[19px] 2xl:right-[21px] 3xl:right-[26px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
                       <Input
                         className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_901 text-bluegray_901 text-left w-[100%]"
-                        name="(GMT+00:00) UTC"
+                        name="Group149"
                         placeholder={`(GMT+00:00) UTC`}
                       ></Input>
                     </div>
                     <div className="3xl:mt-[19px] bg-transparent border-0 lg:mt-[12px] mt-[16px] w-[37%] xl:mt-[14px] input-wrap">
                       <Image
-                        src={"images/img_vector_42.svg"}
+                        src={"images/img_vector_27.svg"}
                         className="absolute z-[1] right-[22.799988px] bg-transparent border-0 lg:right-[17px] xl:right-[20px] 2xl:right-[22px] 3xl:right-[27px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
                       <Input
                         className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[51px] xl:pr-[59px] pr-[66.39998800000004px] 2xl:pr-[66px] 3xl:pr-[79px] lg:py-[10px] xl:py-[11px] py-[13px] 3xl:py-[15px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                        name="Add video confe"
+                        name="Group150"
                         placeholder={`Add video conferencing`}
                       ></Input>
                     </div>
                     <Text className="font-normal lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Location`}</Text>
                     <div className="bg-transparent border-0 lg:mt-[3px] mt-[4px] w-[100%] xl:mt-[3px] input-wrap">
                       <Image
-                        src={"images/img_vector_43.svg"}
+                        src={"images/img_vector_28.svg"}
                         className="absolute z-[1] right-[21.659912px] bg-transparent border-0 lg:right-[16px] xl:right-[19px] 2xl:right-[21px] 3xl:right-[26px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
                       <Input
                         className="placeholder:bg-transparent bg-transparent border border-gray_200 border-solid font-normal not-italic lg:pl-[12px] xl:pl-[14px] pl-[16px] 3xl:pl-[19px] lg:pr-[47px] xl:pr-[53px] pr-[60.65991199999993px] 2xl:pr-[60px] 3xl:pr-[72px] xl:py-[11px] py-[12.5px] 2xl:py-[12px] 3xl:py-[15px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                        name="Enter location "
+                        name="Group151"
                         placeholder={`Enter location meeting`}
                       ></Input>
                     </div>
@@ -256,7 +256,7 @@ const AddMeetingPage = () => {
                         <Text className="font-normal not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Description`}</Text>
                         <Input
                           className="placeholder:bg-transparent bg-white_A700 border border-bluegray_100 border-solid font-normal xl:mt-[3px] lg:mt-[3px] mt-[4px] not-italic lg:pb-[30px] xl:pb-[34px] pb-[39px] 3xl:pb-[46px] xl:pl-[10px] pl-[12px] 3xl:pl-[14px] lg:pl-[9px] lg:pt-[12px] xl:pt-[14px] pt-[16px] 3xl:pt-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_200 text-bluegray_200 text-left w-[100%]"
-                          name="Start typing th"
+                          name="Group134"
                           placeholder={`Start typing the details about the meeting`}
                         ></Input>
                       </Column>
@@ -282,7 +282,7 @@ const AddMeetingPage = () => {
                     <Text className="font-normal lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-black_900 text-left w-[auto]">{`Related to`}</Text>
                     <div className="3xl:ml-[28px] lg:ml-[18px] lg:mt-[3px] ml-[24px] mt-[4px] w-[84%] xl:ml-[21px] xl:mt-[3px] input-wrap">
                       <Image
-                        src={"images/img_vector_44.svg"}
+                        src={"images/img_vector_29.svg"}
                         className="absolute z-[1] right-[21.659912px] lg:right-[16px] xl:right-[19px] 2xl:right-[21px] 3xl:right-[26px] my-[auto] inset-y-[0]"
                         alt="Vector"
                       />
@@ -297,7 +297,7 @@ const AddMeetingPage = () => {
                       />
                       <Row className="items-center justify-start lg:mt-[6px] xl:mt-[7px] mt-[8px] 3xl:mt-[9px] mx-[auto] w-[82%]">
                         <Image
-                          src={"images/img_infocircleout_1.svg"}
+                          src={"images/img_infocircleout.svg"}
                           className="lg:h-[16px] xl:h-[18px] h-[20px] 2xl:h-[21px] 3xl:h-[25px] my-[1px] object-contain lg:w-[15px] xl:w-[17px] w-[20px] 3xl:w-[24px]"
                           alt="infocircleOut"
                         />
@@ -336,7 +336,7 @@ const AddMeetingPage = () => {
                       />
                       <Text className="font-semibold mb-[1px] xl:ml-[3px] lg:ml-[3px] ml-[4px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] text-bluegray_701 text-left w-[auto]">{`All`}</Text>
                       <Image
-                        src={"images/img_angledownoutl_3.svg"}
+                        src={"images/img_angledownoutl_2.svg"}
                         className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                         alt="angledownOutl"
                       />
@@ -344,17 +344,17 @@ const AddMeetingPage = () => {
                   </Stack>
                   <Row className="font-inter items-center justify-between lg:ml-[374px] xl:ml-[427px] ml-[481px] 3xl:ml-[577px] w-[22%]">
                     <Image
-                      src={"images/img_group5_3.svg"}
+                      src={"images/img_group5_2.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group5"
                     />
                     <Image
-                      src={"images/img_group4_3.svg"}
+                      src={"images/img_group4_2.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group4"
                     />
                     <Image
-                      src={"images/img_group3_3.svg"}
+                      src={"images/img_group3_2.svg"}
                       className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                       alt="Group3"
                     />
@@ -392,7 +392,7 @@ const AddMeetingPage = () => {
                       </Row>
                       <Row className="bg-gray_51 border border-gray_200 border-solid items-center justify-center lg:pl-[13px] xl:pl-[15px] pl-[17.67px] 2xl:pl-[17px] 3xl:pl-[21px] lg:pr-[12px] xl:pr-[14px] pr-[16px] 3xl:pr-[19px] lg:py-[6px] xl:py-[7px] py-[8px] 3xl:py-[9px] w-[48%]">
                         <Image
-                          src={"images/img_vector_45.svg"}
+                          src={"images/img_vector_30.svg"}
                           className="lg:h-[13px] xl:h-[15px] h-[16.67px] 2xl:h-[17px] 3xl:h-[21px] mb-[3.16px] mt-[3.17px] xl:my-[2px] lg:my-[2px] 3xl:my-[3px] 2xl:my-[3px] object-contain lg:w-[12px] xl:w-[14px] w-[16.67px] 2xl:w-[16px] 3xl:w-[20px]"
                           alt="Vector"
                         />
@@ -475,7 +475,7 @@ const AddMeetingPage = () => {
                                 </Column>
                               </Column>
                               <Image
-                                src={"images/img_vector_46.svg"}
+                                src={"images/img_vector_31.svg"}
                                 className="absolute bottom-[5%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[13%] w-[61%]"
                                 alt="Vector"
                               />
@@ -486,17 +486,17 @@ const AddMeetingPage = () => {
                                   <Column className="items-center pr-[1px] w-[100%]">
                                     <Stack className="lg:h-[15px] xl:h-[17px] h-[18.820007px] 2xl:h-[19px] 3xl:h-[23px] mx-[auto] w-[99%]">
                                       <Image
-                                        src={"images/img_vector_47.png"}
+                                        src={"images/img_vector_32.png"}
                                         className="absolute lg:h-[15px] xl:h-[17px] h-[18.75px] 2xl:h-[19px] 3xl:h-[23px] inset-y-[0] my-[auto] object-contain right-[0] w-[45%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_48.png"}
+                                        src={"images/img_vector_33.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_49.png"}
+                                        src={"images/img_vector_34.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
@@ -511,19 +511,19 @@ const AddMeetingPage = () => {
                                   </Column>
                                 </Column>
                                 <Image
-                                  src={"images/img_vector_50.svg"}
+                                  src={"images/img_vector_35.svg"}
                                   className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[1%] w-[81%]"
                                   alt="Vector"
                                 />
                               </Stack>
                               <Stack className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] left-[18%] w-[46%]">
                                 <Image
-                                  src={"images/img_vector_51.png"}
+                                  src={"images/img_vector_36.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
                                 <Image
-                                  src={"images/img_vector_52.png"}
+                                  src={"images/img_vector_37.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
@@ -585,7 +585,7 @@ const AddMeetingPage = () => {
                                 </Column>
                               </Column>
                               <Image
-                                src={"images/img_vector_53.svg"}
+                                src={"images/img_vector_38.svg"}
                                 className="absolute bottom-[5%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[13%] w-[61%]"
                                 alt="Vector"
                               />
@@ -596,17 +596,17 @@ const AddMeetingPage = () => {
                                   <Column className="items-center pr-[1px] w-[100%]">
                                     <Stack className="lg:h-[15px] xl:h-[17px] h-[18.820007px] 2xl:h-[19px] 3xl:h-[23px] mx-[auto] w-[99%]">
                                       <Image
-                                        src={"images/img_vector_54.png"}
+                                        src={"images/img_vector_39.png"}
                                         className="absolute lg:h-[15px] xl:h-[17px] h-[18.75px] 2xl:h-[19px] 3xl:h-[23px] inset-y-[0] my-[auto] object-contain right-[0] w-[45%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_55.png"}
+                                        src={"images/img_vector_40.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
                                       <Image
-                                        src={"images/img_vector_56.png"}
+                                        src={"images/img_vector_41.png"}
                                         className="absolute lg:h-[12px] h-[14.76px] xl:h-[14px] 2xl:h-[15px] 3xl:h-[18px] left-[0] object-contain top-[0] w-[65%]"
                                         alt="Vector"
                                       />
@@ -621,19 +621,19 @@ const AddMeetingPage = () => {
                                   </Column>
                                 </Column>
                                 <Image
-                                  src={"images/img_vector_57.svg"}
+                                  src={"images/img_vector_42.svg"}
                                   className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] object-contain right-[1%] w-[81%]"
                                   alt="Vector"
                                 />
                               </Stack>
                               <Stack className="absolute bottom-[1%] h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] left-[18%] w-[46%]">
                                 <Image
-                                  src={"images/img_vector_58.png"}
+                                  src={"images/img_vector_43.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
                                 <Image
-                                  src={"images/img_vector_59.png"}
+                                  src={"images/img_vector_44.png"}
                                   className="absolute h-[4.14px] xl:h-[4px] lg:h-[4px] 3xl:h-[5px] 2xl:h-[5px] inset-[0] object-cover w-[100%]"
                                   alt="Vector"
                                 />
@@ -652,13 +652,13 @@ const AddMeetingPage = () => {
                     <div className="3xl:ml-[133px] absolute bg-transparent border-0 left-[26%] lg:ml-[86px] ml-[111px] w-[39%] xl:ml-[98px] input-wrap">
                       <div className="input-wrap">
                         <Image
-                          src={"images/img_vector_60.svg"}
+                          src={"images/img_vector_45.svg"}
                           className="absolute z-[1] left-[17.55px] bg-transparent border-0 my-[auto] inset-y-[0]"
                           alt="Vector"
                         />
                         <Input
                           className="bg-gray_51 placeholder:bg-transparent border border-gray_200 border-solid font-normal not-italic pb-[11.66px] lg:pl-[40px] xl:pl-[45px] pl-[51.47px] 2xl:pl-[51px] 3xl:pl-[61px] pt-[11.67px] xl:py-[10px] 2xl:py-[11px] 3xl:py-[14px] lg:py-[9px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                          name="Configure widge"
+                          name="Group143"
                           placeholder={`Configure widgets`}
                         ></Input>
                       </div>
@@ -667,7 +667,7 @@ const AddMeetingPage = () => {
                   <Column className="bg-white_A700 items-start justify-start lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] lg:pb-[32px] xl:pb-[37px] pb-[42px] 3xl:pb-[50px] xl:pt-[10px] pt-[12px] 3xl:pt-[14px] lg:pt-[9px] rounded-radius8 w-[100%]">
                     <Row className="items-center justify-start lg:ml-[12px] xl:ml-[14px] ml-[16px] 3xl:ml-[19px] w-[37%]">
                       <Image
-                        src={"images/img_group3_4.svg"}
+                        src={"images/img_group3_3.svg"}
                         className="lg:h-[32px] xl:h-[36px] h-[40px] 2xl:h-[41px] 3xl:h-[49px] object-contain lg:w-[31px] xl:w-[35px] w-[40px] 3xl:w-[48px]"
                         alt="Group3"
                       />

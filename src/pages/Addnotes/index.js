@@ -19,12 +19,12 @@ const AddnotesPage = () => {
         <aside className="items-center lg:pb-[15px] xl:pb-[17px] pb-[20px] 3xl:pb-[24px] lg:pt-[18px] xl:pt-[21px] pt-[24px] 3xl:pt-[28px] lg:px-[18px] xl:px-[21px] px-[24px] 3xl:px-[28px] w-[7%]">
           <Column className="">
             <Image
-              src={"images/img_group_10.svg"}
+              src={"images/img_group_8.svg"}
               className="lg:h-[39px] xl:h-[45px] h-[50px] 2xl:h-[51px] 3xl:h-[61px] mx-[auto] object-contain lg:w-[38px] xl:w-[44px] w-[50px] 3xl:w-[60px]"
               alt="Group"
             />
             <Image
-              src={"images/img_frame407_7.svg"}
+              src={"images/img_frame407_5.svg"}
               className="3xl:h-[1075px] lg:h-[697px] xl:h-[797px] h-[895px] 2xl:h-[896px] lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] mx-[auto] object-contain w-[51%]"
               alt="Frame407"
             />
@@ -62,13 +62,13 @@ const AddnotesPage = () => {
               </Row>
               <Row className="absolute border border-bluegray_201 border-solid items-center justify-start left-[0] lg:p-[6px] xl:p-[7px] p-[8px] 3xl:p-[9px] rounded-bl-[4px] rounded-br-[0] rounded-tl-[4px] rounded-tr-[0] w-[11%]">
                 <Image
-                  src={"images/img_usercircleout_4.svg"}
+                  src={"images/img_usercircleout_5.svg"}
                   className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                   alt="usercircleOut"
                 />
                 <Text className="font-semibold mb-[1px] xl:ml-[3px] lg:ml-[3px] ml-[4px] lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] text-bluegray_701 text-left w-[auto]">{`Contacts`}</Text>
                 <Image
-                  src={"images/img_angledownoutl_7.svg"}
+                  src={"images/img_angledownoutl_8.svg"}
                   className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                   alt="angledownOutl"
                 />
@@ -79,7 +79,7 @@ const AddnotesPage = () => {
             <Row className="bg-gray_100 border border-indigo_50 border-solid items-center justify-end lg:pl-[18px] xl:pl-[21px] pl-[24px] 3xl:pl-[28px] lg:pr-[12px] xl:pr-[14px] pr-[16px] 3xl:pr-[19px] lg:py-[5px] xl:py-[6px] py-[7.5px] 2xl:py-[7px] 3xl:py-[9px] w-[100%]">
               <Text className="font-normal 3xl:my-[10px] lg:my-[6px] xl:my-[7px] my-[8.5px] 2xl:my-[8px] not-italic lg:text-[14px] xl:text-[16px] text-[18px] 3xl:text-[21px] text-blue_800 text-left w-[auto]">{`Contacts`}</Text>
               <Image
-                src={"images/img_angleleftbou_4.svg"}
+                src={"images/img_angleleftbou_5.svg"}
                 className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] lg:mb-[5px] xl:mb-[6px] mb-[7.5px] 2xl:mb-[7px] 3xl:mb-[9px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] 3xl:mt-[10px] lg:mt-[6px] xl:mt-[7px] mt-[8.5px] 2xl:mt-[8px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                 alt="angleleftbOu"
               />
@@ -87,13 +87,13 @@ const AddnotesPage = () => {
               <Row className="items-center justify-center lg:ml-[246px] xl:ml-[281px] ml-[317px] 3xl:ml-[380px] w-[56%]">
                 <div className="bg-transparent border-0 w-[11%] input-wrap">
                   <Image
-                    src={"images/img_vector_109.svg"}
+                    src={"images/img_vector_127.svg"}
                     className="absolute z-[1] left-[10.00px] bg-transparent border-0 lg:left-[7px] xl:left-[8px] 2xl:left-[10px] 3xl:left-[12px] my-[auto] inset-y-[0]"
                     alt="Vector"
                   />
                   <Input
                     className="placeholder:bg-transparent bg-white_A700 border border-gray_200 border-solid font-normal not-italic lg:pl-[31px] xl:pl-[35px] pl-[40.00px] 2xl:pl-[40px] 3xl:pl-[48px] lg:py-[12px] xl:py-[14px] py-[16.5px] 2xl:py-[16px] 3xl:py-[19px] rounded-radius4 lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] placeholder:text-bluegray_700 text-bluegray_700 text-left w-[100%]"
-                    name="Email"
+                    name="Group506"
                     placeholder={`Email`}
                   ></Input>
                 </div>
@@ -109,7 +109,7 @@ const AddnotesPage = () => {
                     />
                     <Text className="cursor-pointer hover:font-normal font-normal lg:h-[18px] xl:h-[21px] h-[23px] 2xl:h-[24px] 3xl:h-[28px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] my-[1px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`Call`}</Text>
                     <Image
-                      src={"images/img_angledownsoli_4.svg"}
+                      src={"images/img_angledownsoli_5.svg"}
                       className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                       alt="angledownSoli"
                     />
@@ -122,7 +122,7 @@ const AddnotesPage = () => {
                     />
                     <Text className="cursor-pointer hover:font-normal font-normal ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] my-[1px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`SMS`}</Text>
                     <Image
-                      src={"images/img_angledownsoli_5.svg"}
+                      src={"images/img_angledownsoli_6.svg"}
                       className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                       alt="angledownSoli"
                     />
@@ -148,7 +148,7 @@ const AddnotesPage = () => {
                     />
                     <Text className="cursor-pointer hover:font-normal font-normal ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] my-[1px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`Meeting`}</Text>
                     <Image
-                      src={"images/img_angledownsoli_6.svg"}
+                      src={"images/img_angledownsoli_7.svg"}
                       className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                       alt="angledownSoli"
                     />
@@ -161,7 +161,7 @@ const AddnotesPage = () => {
                     />
                     <Text className="cursor-pointer hover:font-normal font-normal ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] my-[1px] not-italic lg:text-[10px] xl:text-[12px] text-[14px] 3xl:text-[16px] text-bluegray_700 text-left w-[auto]">{`Add deal`}</Text>
                     <Image
-                      src={"images/img_angledownsoli_7.svg"}
+                      src={"images/img_angledownsoli_8.svg"}
                       className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] ml-[10px] 3xl:ml-[12px] lg:ml-[7px] xl:ml-[8px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                       alt="angledownSoli"
                     />
@@ -178,7 +178,7 @@ const AddnotesPage = () => {
           <Column className="bg-bluegray_50 items-start justify-start lg:mt-[12px] xl:mt-[14px] mt-[16px] 3xl:mt-[19px] mx-[auto] lg:pb-[224px] xl:pb-[256px] pb-[288px] 3xl:pb-[345px] lg:pt-[18px] xl:pt-[21px] pt-[24px] 3xl:pt-[28px] rounded-radius4 w-[99%]">
             <Row className="items-start justify-start lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] w-[52%]">
               <Image
-                src={"images/img_ellipse10_3.png"}
+                src={"images/img_ellipse10_4.png"}
                 className="lg:h-[55px] xl:h-[63px] h-[70px] 2xl:h-[71px] 3xl:h-[85px] object-contain rounded-radius50 w-[auto]"
                 alt="Ellipse10"
               />
@@ -218,7 +218,7 @@ const AddnotesPage = () => {
                 <Row className="items-center justify-evenly mx-[auto] w-[97%]">
                   <Text className="font-semibold my-[1px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-bluegray_400 text-left w-[auto]">{`Customer fit`}</Text>
                   <Image
-                    src={"images/img_infocircleout_2.svg"}
+                    src={"images/img_infocircleout_3.svg"}
                     className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                     alt="infocircleOut"
                   />
@@ -232,7 +232,7 @@ const AddnotesPage = () => {
               <Row className="items-center justify-evenly lg:mb-[35px] xl:mb-[40px] mb-[46px] 3xl:mb-[55px] lg:ml-[18px] xl:ml-[21px] ml-[24px] 3xl:ml-[28px] w-[25%]">
                 <Text className="font-semibold my-[1px] lg:text-[12px] xl:text-[14px] text-[16px] 3xl:text-[19px] text-blue_800 text-left w-[auto]">{`Show scoring factors`}</Text>
                 <Image
-                  src={"images/img_infocircleout_3.svg"}
+                  src={"images/img_infocircleout_4.svg"}
                   className="lg:h-[19px] xl:h-[22px] h-[24px] 2xl:h-[25px] 3xl:h-[29px] xl:ml-[3px] lg:ml-[3px] ml-[4px] object-contain lg:w-[18px] xl:w-[21px] w-[24px] 3xl:w-[28px]"
                   alt="infocircleOut"
                 />
